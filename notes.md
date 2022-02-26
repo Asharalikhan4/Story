@@ -5,3 +5,5 @@ git commit -m "A msg that show some info"
 - git log = to see what commit you have comitted 
 - git diff = it tell us the diff between the previous version and of the file and the version that you are currently working on.
 - git checkout filename = it will undo all the changes that you've done.
+- origin = the name of the remote
+- master = the name of the branchgit
